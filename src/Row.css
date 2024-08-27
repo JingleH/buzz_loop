@@ -1,0 +1,8 @@
+/* tailwind issue: https://github.com/tailwindlabs/tailwindcss/discussions/12358 */
+.min-video-height {
+  min-height: 224px;
+}
+
+.min-image-height {
+  min-height: 144px;
+}

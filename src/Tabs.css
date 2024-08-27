@@ -1,0 +1,22 @@
+.tabs li {
+  cursor: pointer;
+  position: relative;
+  color: #555;
+  font-weight: 400;
+  text-align: center;
+}
+
+.tabs li.active {
+  font-weight: 700; /* Bold text for active item */
+  color: black;
+}
+
+.tabs li.active::after {
+  content: "";
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background-color: #292929; /* Bold underline for active item */
+}

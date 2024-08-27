@@ -1,0 +1,1715 @@
+{
+  "metadata": {
+    "totalHits": 703,
+    "start": "0",
+    "limit": 10,
+    "tracking": {
+      "query_intent": "video",
+      "adobe_one_video_recall_100": 7,
+      "ADOBE_ONE": 1,
+      "adobe_one_recall": 1,
+      "adobe_one_video_recall_20": 7,
+      "adobe_one_rescore": 1
+    }
+  },
+  "items": [
+    {
+      "id": "urn:aaid:sc:VA6C2:f89db58f-4d82-51f8-a10d-659db368eb3a",
+      "parentDirectoryId": "urn:aaid:sc:VA6C2:646eca58-139c-4c75-908e-f39f13285163",
+      "ancestorAssetIds": [
+        "urn:aaid:directory:b5accaca-1f2d-4311-aa12-e9c537a8fad8",
+        "urn:aaid:directory:61acb9e9-a107-48e0-9e73-80c8031ede18",
+        "urn:aaid:sc:VA6C2:74c05c10-0945-5dd6-9c3d-22851a3d1903",
+        "urn:aaid:sc:VA6C2:b2b850c0-cab8-48be-89db-78909574db16",
+        "urn:aaid:sc:VA6C2:0fabaa0d-a1f7-4cbd-b603-89c6dc35a48a",
+        "urn:aaid:sc:VA6C2:74c60171-633c-4451-867e-d49e5f4e5884",
+        "urn:aaid:sc:VA6C2:1bb25287-eae8-476e-8dab-5c191e525e61",
+        "urn:aaid:sc:VA6C2:646eca58-139c-4c75-908e-f39f13285163"
+      ],
+      "path": "/content/assets/content/approved/ccx/template/media_monks_au/f9f0881b-ed69-4542-893b-dffaac1d4a64",
+      "contentType": "application/vnd.adobe.hz.express+dcx",
+      "createDate": "2024-07-29T02:54:25.564Z",
+      "modifyDate": "2024-08-14T10:10:04.765Z",
+      "name": "f9f0881b-ed69-4542-893b-dffaac1d4a64",
+      "status": "approved",
+      "dc:title": {
+        "i-default": "LGBQTIA+ Proud Loud TikTok Video"
+      },
+      "etags": "\"4f23b1d843b0468790fdb46bf21aa140\"",
+      "assetType": "Template",
+      "behaviors": ["animated", "video"],
+      "topics": ["community", "diversity", "equality", "inclusive", "pride", "rainbow"],
+      "availabilityDate": "2024-08-15T06:38:32.344Z",
+      "licensingCategory": "free",
+      "language": "en-US",
+      "applicableRegions": ["AU"],
+      "attribution": {
+        "vendor": "Adobe Express",
+        "submittedBy": "6D531E40664BDC180A495E69@c0b827b66271908b495fe8.e"
+      },
+      "pages": [
+        {
+          "features": ["audio"],
+          "task": {
+            "name": "tiktok-video",
+            "size": {
+              "name": "1080x1920px"
+            }
+          },
+          "extractedColors": [
+            {
+              "name": "orange",
+              "coverage": 0.1649,
+              "mode": "RGB",
+              "value": {
+                "r": 240,
+                "g": 138,
+                "b": 39
+              }
+            },
+            {
+              "name": "dark pink",
+              "coverage": 0.1191,
+              "mode": "RGB",
+              "value": {
+                "r": 151,
+                "g": 76,
+                "b": 106
+              }
+            },
+            {
+              "name": "yellow",
+              "coverage": 0.1055,
+              "mode": "RGB",
+              "value": {
+                "r": 249,
+                "g": 232,
+                "b": 6
+              }
+            },
+            {
+              "name": "light blue",
+              "coverage": 0.4331,
+              "mode": "RGB",
+              "value": {
+                "r": 111,
+                "g": 159,
+                "b": 230
+              }
+            },
+            {
+              "name": "turquoise",
+              "coverage": 0.1773,
+              "mode": "RGB",
+              "value": {
+                "r": 97,
+                "g": 149,
+                "b": 225
+              }
+            }
+          ],
+          "rendition": {
+            "image": {
+              "thumbnail": {
+                "componentId": "f6d16f7a-9bf7-4252-a753-986f8ab17efe",
+                "hzRevision": "2a4e574f-2da8-4054-8b20-b0f48cbc7944",
+                "width": 281,
+                "height": 500,
+                "mediaType": "image/webp"
+              },
+              "preview": {
+                "componentId": "817ad4c1-813e-43fd-b0aa-115b0adc4aa5",
+                "hzRevision": "c0f8b075-66a3-4ff0-a292-843a3dd9e67e",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "image/webp"
+              }
+            },
+            "video": {
+              "thumbnail": {
+                "componentId": "1f5d131d-3a22-43c8-8b35-fc815423e226",
+                "hzRevision": "e9208478-5504-4504-9680-5df117308a7a",
+                "width": 281,
+                "height": 500,
+                "mediaType": "video/mp4",
+                "duration": 8
+              },
+              "preview": {
+                "componentId": "32389442-518c-4d96-99c4-c93824be2bf2",
+                "hzRevision": "f6217bdf-fc0b-4035-a02a-2f5fd1ea5799",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "video/mp4",
+                "duration": 8
+              }
+            }
+          }
+        }
+      ],
+      "customLinks": {
+        "branchUrl": "https://adobesparkpost.app.link/4j4DuCnI4Lb"
+      },
+      "stats": {
+        "remixCount": 6
+      },
+      "styles": ["bold"],
+      "segments": ["non-profit", "personal"],
+      "moods": ["happy", "joyful"],
+      "_links": {
+        "http://ns.adobe.com/adobecloud/rel/rendition": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:f89db58f-4d82-51f8-a10d-659db368eb3a/rendition?assetType=TEMPLATE&etag=4f23b1d843b0468790fdb46bf21aa140{&page,size,type,fragment}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/primary": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:f89db58f-4d82-51f8-a10d-659db368eb3a/primary?assetType=TEMPLATE&etag=4f23b1d843b0468790fdb46bf21aa140",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/manifest": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:f89db58f-4d82-51f8-a10d-659db368eb3a/manifest?assetType=TEMPLATE&etag=4f23b1d843b0468790fdb46bf21aa140",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/component": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:f89db58f-4d82-51f8-a10d-659db368eb3a/component?assetType=TEMPLATE&etag=4f23b1d843b0468790fdb46bf21aa140{&revision,component_id}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        }
+      }
+    },
+    {
+      "id": "urn:aaid:sc:VA6C2:766a8d3d-bc0f-533a-bf8c-3b6f516de785",
+      "parentDirectoryId": "urn:aaid:sc:VA6C2:646eca58-139c-4c75-908e-f39f13285163",
+      "ancestorAssetIds": [
+        "urn:aaid:directory:b5accaca-1f2d-4311-aa12-e9c537a8fad8",
+        "urn:aaid:directory:61acb9e9-a107-48e0-9e73-80c8031ede18",
+        "urn:aaid:sc:VA6C2:74c05c10-0945-5dd6-9c3d-22851a3d1903",
+        "urn:aaid:sc:VA6C2:b2b850c0-cab8-48be-89db-78909574db16",
+        "urn:aaid:sc:VA6C2:0fabaa0d-a1f7-4cbd-b603-89c6dc35a48a",
+        "urn:aaid:sc:VA6C2:74c60171-633c-4451-867e-d49e5f4e5884",
+        "urn:aaid:sc:VA6C2:1bb25287-eae8-476e-8dab-5c191e525e61",
+        "urn:aaid:sc:VA6C2:646eca58-139c-4c75-908e-f39f13285163"
+      ],
+      "path": "/content/assets/content/approved/ccx/template/media_monks_au/c493ba04-2961-4942-b2ce-d015dad7fdb8",
+      "contentType": "application/vnd.adobe.hz.express+dcx",
+      "createDate": "2024-07-29T03:08:58.457Z",
+      "modifyDate": "2024-08-16T08:43:37.843Z",
+      "name": "c493ba04-2961-4942-b2ce-d015dad7fdb8",
+      "status": "approved",
+      "dc:title": {
+        "i-default": "Yellow Mental Health TikTok Video"
+      },
+      "etags": "\"cd48c2d6e13a4069b55d76ae4fd0ad4e\"",
+      "assetType": "Template",
+      "behaviors": ["video"],
+      "topics": ["counselling", "mental health", "psychology", "self help", "therapy", "wellbeing"],
+      "availabilityDate": "2024-08-20T00:28:54.259Z",
+      "licensingCategory": "free",
+      "language": "en-US",
+      "applicableRegions": ["AU"],
+      "attribution": {
+        "vendor": "Adobe Express",
+        "submittedBy": "22C41E396543F0F00A495C41@c0b827b66271908b495fe8.e"
+      },
+      "pages": [
+        {
+          "features": ["audio"],
+          "task": {
+            "name": "tiktok-video",
+            "size": {
+              "name": "1080x1920px"
+            }
+          },
+          "extractedColors": [
+            {
+              "name": "brown",
+              "coverage": 0.1344,
+              "mode": "RGB",
+              "value": {
+                "r": 152,
+                "g": 107,
+                "b": 77
+              }
+            },
+            {
+              "name": "khaki",
+              "coverage": 0.1774,
+              "mode": "RGB",
+              "value": {
+                "r": 185,
+                "g": 147,
+                "b": 117
+              }
+            },
+            {
+              "name": "black",
+              "coverage": 0.3273,
+              "mode": "RGB",
+              "value": {
+                "r": 29,
+                "g": 31,
+                "b": 28
+              }
+            },
+            {
+              "name": "white",
+              "coverage": 0.2454,
+              "mode": "RGB",
+              "value": {
+                "r": 251,
+                "g": 251,
+                "b": 250
+              }
+            },
+            {
+              "name": "orange",
+              "coverage": 0.1155,
+              "mode": "RGB",
+              "value": {
+                "r": 207,
+                "g": 177,
+                "b": 148
+              }
+            }
+          ],
+          "rendition": {
+            "image": {
+              "thumbnail": {
+                "componentId": "e348e6dc-d4e9-4570-b940-213f563198ac",
+                "hzRevision": "d8a7e85e-e5b6-47f4-b577-997a591ed24b",
+                "width": 281,
+                "height": 500,
+                "mediaType": "image/webp"
+              },
+              "preview": {
+                "componentId": "25dd5352-12bc-4bdb-9c75-3214d85a478d",
+                "hzRevision": "009a281a-eb2c-4657-ae80-98f9ba058ef5",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "image/webp"
+              }
+            },
+            "video": {
+              "thumbnail": {
+                "componentId": "35d33bff-733d-4253-bb61-f3c90646cdbd",
+                "hzRevision": "a4043b03-28ae-4edd-bb91-f727cce50800",
+                "width": 281,
+                "height": 500,
+                "mediaType": "video/mp4",
+                "duration": 9
+              },
+              "preview": {
+                "componentId": "946398e3-0e9b-42d5-a2d9-99c1a515e7e3",
+                "hzRevision": "f9eae9d1-fa4e-4d73-9cc6-319a38ab180f",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "video/mp4",
+                "duration": 9
+              }
+            }
+          }
+        }
+      ],
+      "customLinks": {
+        "branchUrl": "https://adobesparkpost.app.link/JMeoK7tAcMb"
+      },
+      "stats": {
+        "remixCount": 1
+      },
+      "styles": ["classic", "minimal", "simple"],
+      "segments": ["non-profit", "personal", "small-business"],
+      "moods": ["mellow"],
+      "_links": {
+        "http://ns.adobe.com/adobecloud/rel/rendition": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:766a8d3d-bc0f-533a-bf8c-3b6f516de785/rendition?assetType=TEMPLATE&etag=cd48c2d6e13a4069b55d76ae4fd0ad4e{&page,size,type,fragment}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/primary": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:766a8d3d-bc0f-533a-bf8c-3b6f516de785/primary?assetType=TEMPLATE&etag=cd48c2d6e13a4069b55d76ae4fd0ad4e",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/manifest": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:766a8d3d-bc0f-533a-bf8c-3b6f516de785/manifest?assetType=TEMPLATE&etag=cd48c2d6e13a4069b55d76ae4fd0ad4e",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/component": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:766a8d3d-bc0f-533a-bf8c-3b6f516de785/component?assetType=TEMPLATE&etag=cd48c2d6e13a4069b55d76ae4fd0ad4e{&revision,component_id}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        }
+      }
+    },
+    {
+      "id": "urn:aaid:sc:VA6C2:11829187-dd50-5531-a086-27cc2e206f04",
+      "parentDirectoryId": "urn:aaid:sc:VA6C2:9964093a-b8a9-47fa-a02d-3116f8d8cd88",
+      "ancestorAssetIds": [
+        "urn:aaid:directory:b5accaca-1f2d-4311-aa12-e9c537a8fad8",
+        "urn:aaid:directory:61acb9e9-a107-48e0-9e73-80c8031ede18",
+        "urn:aaid:sc:VA6C2:74c05c10-0945-5dd6-9c3d-22851a3d1903",
+        "urn:aaid:sc:VA6C2:b2b850c0-cab8-48be-89db-78909574db16",
+        "urn:aaid:sc:VA6C2:0fabaa0d-a1f7-4cbd-b603-89c6dc35a48a",
+        "urn:aaid:sc:VA6C2:74c60171-633c-4451-867e-d49e5f4e5884",
+        "urn:aaid:sc:VA6C2:1bb25287-eae8-476e-8dab-5c191e525e61",
+        "urn:aaid:sc:VA6C2:9964093a-b8a9-47fa-a02d-3116f8d8cd88"
+      ],
+      "path": "/content/assets/content/approved/ccx/template/stock_community/36ab84d3-07e8-512a-a0fc-d844fafd6f5f",
+      "contentType": "application/vnd.adobe.hz.express+dcx",
+      "createDate": "2024-01-17T13:20:27.902Z",
+      "modifyDate": "2024-01-17T13:20:28.317Z",
+      "name": "36ab84d3-07e8-512a-a0fc-d844fafd6f5f",
+      "status": "approved",
+      "dc:title": {
+        "i-default": "Peach And Pink Makeup Tutorial Tik Tok Ad"
+      },
+      "etags": "\"c15406449d034faab494565fc2589ec5\"",
+      "assetType": "Template",
+      "behaviors": ["still"],
+      "topics": [
+        "three-dimensional",
+        "vivid",
+        "pop-up",
+        "playful",
+        "makeup",
+        "tutorial",
+        "how to",
+        "tips",
+        "video",
+        "beautiful",
+        "beauty",
+        "facial",
+        "face",
+        "blush on",
+        "glowing"
+      ],
+      "availabilityDate": "2024-01-17T13:20:37.605Z",
+      "licensingCategory": "free",
+      "language": "en-US",
+      "applicableRegions": ["ZZ"],
+      "attribution": {
+        "creators": [
+          {
+            "name": "Savian Rainero"
+          }
+        ],
+        "vendor": "Adobe Stock Community",
+        "submittedBy": "D54A267A64651E440A495FDF@c0b827b66271908b495fe8.e"
+      },
+      "pages": [
+        {
+          "task": {
+            "name": "tiktok-ad",
+            "size": {
+              "name": "1080x1920px"
+            }
+          },
+          "extractedColors": [
+            {
+              "name": "pink",
+              "coverage": 0.2176,
+              "mode": "RGB",
+              "value": {
+                "r": 241,
+                "g": 181,
+                "b": 185
+              }
+            },
+            {
+              "name": "brown",
+              "coverage": 0.2819,
+              "mode": "RGB",
+              "value": {
+                "r": 161,
+                "g": 101,
+                "b": 73
+              }
+            },
+            {
+              "name": "khaki",
+              "coverage": 0.1314,
+              "mode": "RGB",
+              "value": {
+                "r": 195,
+                "g": 143,
+                "b": 110
+              }
+            },
+            {
+              "name": "orange",
+              "coverage": 0.2114,
+              "mode": "RGB",
+              "value": {
+                "r": 205,
+                "g": 148,
+                "b": 118
+              }
+            },
+            {
+              "name": "dark brown",
+              "coverage": 0.1577,
+              "mode": "RGB",
+              "value": {
+                "r": 92,
+                "g": 53,
+                "b": 43
+              }
+            }
+          ],
+          "rendition": {
+            "image": {
+              "thumbnail": {
+                "componentId": "3200e5f9-b30c-4a39-8519-f6b7e8cabda5",
+                "hzRevision": "ba351bd3-8d8e-44ea-8a3e-167891ab8ad5",
+                "width": 281,
+                "height": 500,
+                "mediaType": "image/webp"
+              },
+              "preview": {
+                "componentId": "8b6cef85-1c20-4ac0-abd0-0cfea892aa53",
+                "hzRevision": "42ffc6b5-8aa8-47be-b0d8-707ecfd2115e",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "image/webp"
+              }
+            }
+          }
+        }
+      ],
+      "customLinks": {
+        "branchUrl": "https://adobesparkpost.app.link/7bpuz7ITtGb"
+      },
+      "stats": {
+        "remixCount": 167
+      },
+      "styles": ["abstract", "bold", "bright"],
+      "segments": ["all"],
+      "moods": ["playful", "happy", "joyful"],
+      "_links": {
+        "http://ns.adobe.com/adobecloud/rel/rendition": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:11829187-dd50-5531-a086-27cc2e206f04/rendition?assetType=TEMPLATE&etag=c15406449d034faab494565fc2589ec5{&page,size,type,fragment}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/primary": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:11829187-dd50-5531-a086-27cc2e206f04/primary?assetType=TEMPLATE&etag=c15406449d034faab494565fc2589ec5",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/manifest": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:11829187-dd50-5531-a086-27cc2e206f04/manifest?assetType=TEMPLATE&etag=c15406449d034faab494565fc2589ec5",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/component": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:11829187-dd50-5531-a086-27cc2e206f04/component?assetType=TEMPLATE&etag=c15406449d034faab494565fc2589ec5{&revision,component_id}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        }
+      }
+    },
+    {
+      "id": "urn:aaid:sc:VA6C2:7dba2cdd-2f9a-55be-9b79-e8915090ae7e",
+      "parentDirectoryId": "urn:aaid:sc:VA6C2:9964093a-b8a9-47fa-a02d-3116f8d8cd88",
+      "ancestorAssetIds": [
+        "urn:aaid:directory:b5accaca-1f2d-4311-aa12-e9c537a8fad8",
+        "urn:aaid:directory:61acb9e9-a107-48e0-9e73-80c8031ede18",
+        "urn:aaid:sc:VA6C2:74c05c10-0945-5dd6-9c3d-22851a3d1903",
+        "urn:aaid:sc:VA6C2:b2b850c0-cab8-48be-89db-78909574db16",
+        "urn:aaid:sc:VA6C2:0fabaa0d-a1f7-4cbd-b603-89c6dc35a48a",
+        "urn:aaid:sc:VA6C2:74c60171-633c-4451-867e-d49e5f4e5884",
+        "urn:aaid:sc:VA6C2:1bb25287-eae8-476e-8dab-5c191e525e61",
+        "urn:aaid:sc:VA6C2:9964093a-b8a9-47fa-a02d-3116f8d8cd88"
+      ],
+      "path": "/content/assets/content/approved/ccx/template/stock_community/5da19fea-d6d1-59aa-a250-29285c614499",
+      "contentType": "application/vnd.adobe.hz.express+dcx",
+      "createDate": "2024-04-21T10:23:36.404Z",
+      "modifyDate": "2024-04-21T10:23:36.652Z",
+      "name": "5da19fea-d6d1-59aa-a250-29285c614499",
+      "status": "approved",
+      "dc:title": {
+        "i-default": "Pink and Blue How To Stay Flawless Tiktok Video"
+      },
+      "etags": "\"f28621e7883d45c2832903f0f3c8b5d4\"",
+      "assetType": "Template",
+      "behaviors": ["still"],
+      "topics": [
+        "pink",
+        "blue",
+        "skincare",
+        "skincare tips",
+        "skincare trend",
+        "skincare style",
+        "skincare hacks",
+        "skincare tips and tricks",
+        "tips and tricks",
+        "beauty",
+        "beauty care",
+        "beauty tips",
+        "tiktok video",
+        "social media"
+      ],
+      "availabilityDate": "2024-04-21T10:23:27.768Z",
+      "licensingCategory": "free",
+      "language": "en-US",
+      "applicableRegions": ["ZZ"],
+      "attribution": {
+        "vendor": "Adobe Stock Community",
+        "submittedBy": "9EA8232D6446F5950A495FCC@c0b827b66271908b495fe8.e"
+      },
+      "pages": [
+        {
+          "task": {
+            "name": "tiktok-video",
+            "size": {
+              "name": "1080x1920px"
+            }
+          },
+          "extractedColors": [
+            {
+              "name": "lavender",
+              "coverage": 0.1912,
+              "mode": "RGB",
+              "value": {
+                "r": 144,
+                "g": 148,
+                "b": 246
+              }
+            },
+            {
+              "name": "bright green",
+              "coverage": 0.0826,
+              "mode": "RGB",
+              "value": {
+                "r": 179,
+                "g": 234,
+                "b": 107
+              }
+            },
+            {
+              "name": "lilac",
+              "coverage": 0.3061,
+              "mode": "RGB",
+              "value": {
+                "r": 250,
+                "g": 191,
+                "b": 235
+              }
+            },
+            {
+              "name": "dark brown",
+              "coverage": 0.2196,
+              "mode": "RGB",
+              "value": {
+                "r": 79,
+                "g": 44,
+                "b": 30
+              }
+            },
+            {
+              "name": "brown",
+              "coverage": 0.2004,
+              "mode": "RGB",
+              "value": {
+                "r": 154,
+                "g": 95,
+                "b": 63
+              }
+            }
+          ],
+          "rendition": {
+            "image": {
+              "thumbnail": {
+                "componentId": "f35f0bf3-8425-4b4e-88e4-49001da940be",
+                "hzRevision": "1002210d-c4a4-478e-a51a-6e870ab586f1",
+                "width": 281,
+                "height": 500,
+                "mediaType": "image/webp"
+              },
+              "preview": {
+                "componentId": "a048b26b-66fc-4f21-8bf4-e42ffd932fc3",
+                "hzRevision": "f9a1d5f7-f364-4d13-86a0-9c861f113ee2",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "image/webp"
+              }
+            }
+          }
+        }
+      ],
+      "customLinks": {
+        "branchUrl": "https://adobesparkpost.app.link/RB0VW6Dh0Ib"
+      },
+      "stats": {
+        "remixCount": 139
+      },
+      "styles": ["retro"],
+      "segments": ["all"],
+      "moods": ["gritty", "dreamy"],
+      "_links": {
+        "http://ns.adobe.com/adobecloud/rel/rendition": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:7dba2cdd-2f9a-55be-9b79-e8915090ae7e/rendition?assetType=TEMPLATE&etag=f28621e7883d45c2832903f0f3c8b5d4{&page,size,type,fragment}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/primary": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:7dba2cdd-2f9a-55be-9b79-e8915090ae7e/primary?assetType=TEMPLATE&etag=f28621e7883d45c2832903f0f3c8b5d4",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/manifest": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:7dba2cdd-2f9a-55be-9b79-e8915090ae7e/manifest?assetType=TEMPLATE&etag=f28621e7883d45c2832903f0f3c8b5d4",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/component": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:7dba2cdd-2f9a-55be-9b79-e8915090ae7e/component?assetType=TEMPLATE&etag=f28621e7883d45c2832903f0f3c8b5d4{&revision,component_id}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        }
+      }
+    },
+    {
+      "id": "urn:aaid:sc:VA6C2:78d6db5d-a58a-5ed8-b9b8-9f7a5bdbad96",
+      "parentDirectoryId": "urn:aaid:sc:VA6C2:9964093a-b8a9-47fa-a02d-3116f8d8cd88",
+      "ancestorAssetIds": [
+        "urn:aaid:directory:b5accaca-1f2d-4311-aa12-e9c537a8fad8",
+        "urn:aaid:directory:61acb9e9-a107-48e0-9e73-80c8031ede18",
+        "urn:aaid:sc:VA6C2:74c05c10-0945-5dd6-9c3d-22851a3d1903",
+        "urn:aaid:sc:VA6C2:b2b850c0-cab8-48be-89db-78909574db16",
+        "urn:aaid:sc:VA6C2:0fabaa0d-a1f7-4cbd-b603-89c6dc35a48a",
+        "urn:aaid:sc:VA6C2:74c60171-633c-4451-867e-d49e5f4e5884",
+        "urn:aaid:sc:VA6C2:1bb25287-eae8-476e-8dab-5c191e525e61",
+        "urn:aaid:sc:VA6C2:9964093a-b8a9-47fa-a02d-3116f8d8cd88"
+      ],
+      "path": "/content/assets/content/approved/ccx/template/stock_community/2cd11d3e-4457-4852-97ca-48c3b46d2c6a",
+      "contentType": "application/vnd.adobe.hz.express+dcx",
+      "createDate": "2024-08-14T08:30:30.312Z",
+      "modifyDate": "2024-08-14T08:30:30.514Z",
+      "name": "2cd11d3e-4457-4852-97ca-48c3b46d2c6a",
+      "status": "approved",
+      "dc:title": {
+        "i-default": "Blue School Shopping TikTok Video"
+      },
+      "etags": "\"3d1efb97a8974bcdb6d2bf85193f2805\"",
+      "assetType": "Template",
+      "behaviors": ["animated", "video"],
+      "topics": ["shopping", "school", "clothes", "girl", "child", "buy"],
+      "availabilityDate": "2024-08-15T15:01:05.340Z",
+      "licensingCategory": "free",
+      "language": "en-US",
+      "applicableRegions": ["GB"],
+      "attribution": {
+        "vendor": "Adobe Stock Community",
+        "submittedBy": "7F2E1E4065E70CD40A495C46@c0b827b66271908b495fe8.e"
+      },
+      "pages": [
+        {
+          "task": {
+            "name": "tiktok-ad",
+            "size": {
+              "name": "1080x1920px"
+            }
+          },
+          "extractedColors": [
+            {
+              "name": "light blue",
+              "coverage": 0.4808,
+              "mode": "RGB",
+              "value": {
+                "r": 94,
+                "g": 180,
+                "b": 228
+              }
+            },
+            {
+              "name": "beige",
+              "coverage": 0.2275,
+              "mode": "RGB",
+              "value": {
+                "r": 251,
+                "g": 236,
+                "b": 216
+              }
+            },
+            {
+              "name": "gray",
+              "coverage": 0.0899,
+              "mode": "RGB",
+              "value": {
+                "r": 172,
+                "g": 174,
+                "b": 181
+              }
+            },
+            {
+              "name": "cream",
+              "coverage": 0.1102,
+              "mode": "RGB",
+              "value": {
+                "r": 251,
+                "g": 241,
+                "b": 217
+              }
+            },
+            {
+              "name": "cyan",
+              "coverage": 0.0917,
+              "mode": "RGB",
+              "value": {
+                "r": 210,
+                "g": 230,
+                "b": 245
+              }
+            }
+          ],
+          "rendition": {
+            "image": {
+              "thumbnail": {
+                "componentId": "5f0d1b61-376b-4bfb-865a-9e78beeb0c85",
+                "hzRevision": "572698ca-c715-463b-97e7-d5e255e32152",
+                "width": 281,
+                "height": 500,
+                "mediaType": "image/webp"
+              },
+              "preview": {
+                "componentId": "f6cc913d-63b1-40cd-a18e-4b38f9915e82",
+                "hzRevision": "892070f9-bd44-4024-8a71-dfee0d067a79",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "image/webp"
+              }
+            },
+            "video": {
+              "thumbnail": {
+                "componentId": "5655bdbc-bf73-425c-82ba-90ac1deae354",
+                "hzRevision": "f86134fa-cd18-4cdf-a783-16c1b243bc70",
+                "width": 281,
+                "height": 500,
+                "mediaType": "video/mp4",
+                "duration": 5
+              },
+              "preview": {
+                "componentId": "1522dc6e-55e7-431a-8fb5-0f04b4513aea",
+                "hzRevision": "e7a57874-aaa9-4373-a685-df9dc6bf0049",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "video/mp4",
+                "duration": 5
+              }
+            }
+          }
+        }
+      ],
+      "customLinks": {
+        "branchUrl": "https://adobesparkpost.app.link/Nimwucii5Lb"
+      },
+      "styles": ["fresh"],
+      "segments": ["all"],
+      "moods": ["playful"],
+      "_links": {
+        "http://ns.adobe.com/adobecloud/rel/rendition": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:78d6db5d-a58a-5ed8-b9b8-9f7a5bdbad96/rendition?assetType=TEMPLATE&etag=3d1efb97a8974bcdb6d2bf85193f2805{&page,size,type,fragment}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/primary": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:78d6db5d-a58a-5ed8-b9b8-9f7a5bdbad96/primary?assetType=TEMPLATE&etag=3d1efb97a8974bcdb6d2bf85193f2805",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/manifest": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:78d6db5d-a58a-5ed8-b9b8-9f7a5bdbad96/manifest?assetType=TEMPLATE&etag=3d1efb97a8974bcdb6d2bf85193f2805",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/component": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:78d6db5d-a58a-5ed8-b9b8-9f7a5bdbad96/component?assetType=TEMPLATE&etag=3d1efb97a8974bcdb6d2bf85193f2805{&revision,component_id}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        }
+      }
+    },
+    {
+      "id": "urn:aaid:sc:VA6C2:e20cc086-7d06-5fba-a4cd-fd2211a5cc8e",
+      "parentDirectoryId": "urn:aaid:sc:VA6C2:9964093a-b8a9-47fa-a02d-3116f8d8cd88",
+      "ancestorAssetIds": [
+        "urn:aaid:directory:b5accaca-1f2d-4311-aa12-e9c537a8fad8",
+        "urn:aaid:directory:61acb9e9-a107-48e0-9e73-80c8031ede18",
+        "urn:aaid:sc:VA6C2:74c05c10-0945-5dd6-9c3d-22851a3d1903",
+        "urn:aaid:sc:VA6C2:b2b850c0-cab8-48be-89db-78909574db16",
+        "urn:aaid:sc:VA6C2:0fabaa0d-a1f7-4cbd-b603-89c6dc35a48a",
+        "urn:aaid:sc:VA6C2:74c60171-633c-4451-867e-d49e5f4e5884",
+        "urn:aaid:sc:VA6C2:1bb25287-eae8-476e-8dab-5c191e525e61",
+        "urn:aaid:sc:VA6C2:9964093a-b8a9-47fa-a02d-3116f8d8cd88"
+      ],
+      "path": "/content/assets/content/approved/ccx/template/stock_community/350ae845-4e25-501f-8d60-4656c46bf553",
+      "contentType": "application/vnd.adobe.hz.express+dcx",
+      "createDate": "2024-04-10T14:45:40.316Z",
+      "modifyDate": "2024-04-10T14:45:40.572Z",
+      "name": "350ae845-4e25-501f-8d60-4656c46bf553",
+      "status": "approved",
+      "dc:title": {
+        "i-default": "Red and Cream Cozy Games Tiktok Ad"
+      },
+      "etags": "\"b566f7c581484237b499c0967e9a8c71\"",
+      "assetType": "Template",
+      "behaviors": ["still"],
+      "topics": [
+        "co-op",
+        "gaming",
+        "gamer",
+        "controller",
+        "video games",
+        "pink",
+        "orange",
+        "laughing",
+        "activity",
+        "couple"
+      ],
+      "availabilityDate": "2024-04-10T14:46:04.542Z",
+      "licensingCategory": "free",
+      "language": "en-US",
+      "applicableRegions": ["GB"],
+      "attribution": {
+        "creators": [
+          {
+            "name": "WBM Account 2"
+          }
+        ],
+        "vendor": "Adobe Stock Community",
+        "submittedBy": "5FBB1D5F6571E73F0A495E31@c0b827b66271908b495fe8.e"
+      },
+      "pages": [
+        {
+          "task": {
+            "name": "tiktok-ad",
+            "size": {
+              "name": "1080x1920px"
+            }
+          },
+          "extractedColors": [
+            {
+              "name": "gold",
+              "coverage": 0.1015,
+              "mode": "RGB",
+              "value": {
+                "r": 251,
+                "g": 183,
+                "b": 67
+              }
+            },
+            {
+              "name": "pink",
+              "coverage": 0.2032,
+              "mode": "RGB",
+              "value": {
+                "r": 248,
+                "g": 88,
+                "b": 138
+              }
+            },
+            {
+              "name": "brown",
+              "coverage": 0.1032,
+              "mode": "RGB",
+              "value": {
+                "r": 149,
+                "g": 102,
+                "b": 71
+              }
+            },
+            {
+              "name": "dark brown",
+              "coverage": 0.1008,
+              "mode": "RGB",
+              "value": {
+                "r": 85,
+                "g": 51,
+                "b": 29
+              }
+            },
+            {
+              "name": "white",
+              "coverage": 0.4914,
+              "mode": "RGB",
+              "value": {
+                "r": 251,
+                "g": 248,
+                "b": 236
+              }
+            }
+          ],
+          "rendition": {
+            "image": {
+              "thumbnail": {
+                "componentId": "77c49a13-ce65-4754-b6d1-9157d3272b01",
+                "hzRevision": "415014fc-76c4-4d65-9dc7-fb48bb2bc03e",
+                "width": 281,
+                "height": 500,
+                "mediaType": "image/webp"
+              },
+              "preview": {
+                "componentId": "567ee664-6c4c-4bdf-bfa1-1e58cfb9d80f",
+                "hzRevision": "77b5767c-27ff-4f13-8ee2-3d081289487b",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "image/webp"
+              }
+            }
+          }
+        }
+      ],
+      "customLinks": {
+        "branchUrl": "https://adobesparkpost.app.link/9GMt2D2IJIb"
+      },
+      "stats": {
+        "remixCount": 22
+      },
+      "styles": ["organic"],
+      "segments": ["all"],
+      "moods": ["happy"],
+      "_links": {
+        "http://ns.adobe.com/adobecloud/rel/rendition": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:e20cc086-7d06-5fba-a4cd-fd2211a5cc8e/rendition?assetType=TEMPLATE&etag=b566f7c581484237b499c0967e9a8c71{&page,size,type,fragment}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/primary": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:e20cc086-7d06-5fba-a4cd-fd2211a5cc8e/primary?assetType=TEMPLATE&etag=b566f7c581484237b499c0967e9a8c71",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/manifest": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:e20cc086-7d06-5fba-a4cd-fd2211a5cc8e/manifest?assetType=TEMPLATE&etag=b566f7c581484237b499c0967e9a8c71",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/component": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:e20cc086-7d06-5fba-a4cd-fd2211a5cc8e/component?assetType=TEMPLATE&etag=b566f7c581484237b499c0967e9a8c71{&revision,component_id}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        }
+      }
+    },
+    {
+      "id": "urn:aaid:sc:VA6C2:cf87a031-a866-529d-a458-48e95b847467",
+      "parentDirectoryId": "urn:aaid:sc:VA6C2:9964093a-b8a9-47fa-a02d-3116f8d8cd88",
+      "ancestorAssetIds": [
+        "urn:aaid:directory:b5accaca-1f2d-4311-aa12-e9c537a8fad8",
+        "urn:aaid:directory:61acb9e9-a107-48e0-9e73-80c8031ede18",
+        "urn:aaid:sc:VA6C2:74c05c10-0945-5dd6-9c3d-22851a3d1903",
+        "urn:aaid:sc:VA6C2:b2b850c0-cab8-48be-89db-78909574db16",
+        "urn:aaid:sc:VA6C2:0fabaa0d-a1f7-4cbd-b603-89c6dc35a48a",
+        "urn:aaid:sc:VA6C2:74c60171-633c-4451-867e-d49e5f4e5884",
+        "urn:aaid:sc:VA6C2:1bb25287-eae8-476e-8dab-5c191e525e61",
+        "urn:aaid:sc:VA6C2:9964093a-b8a9-47fa-a02d-3116f8d8cd88"
+      ],
+      "path": "/content/assets/content/approved/ccx/template/stock_community/faced55c-e1bb-5ea2-8358-067e70f8b8de",
+      "contentType": "application/vnd.adobe.hz.express+dcx",
+      "createDate": "2024-08-15T10:03:24.652Z",
+      "modifyDate": "2024-08-15T10:03:24.877Z",
+      "name": "faced55c-e1bb-5ea2-8358-067e70f8b8de",
+      "status": "approved",
+      "dc:title": {
+        "i-default": "Lila School Advices TikTok Video"
+      },
+      "etags": "\"3935f2a3a9304c54a5931ef366b40f0a\"",
+      "assetType": "Template",
+      "behaviors": ["animated"],
+      "topics": ["bullies", "year", "student", "primary", "edition", "tips", "how to"],
+      "availabilityDate": "2024-08-16T17:00:28.960Z",
+      "licensingCategory": "free",
+      "language": "en-US",
+      "applicableRegions": ["GB"],
+      "attribution": {
+        "vendor": "Adobe Stock Community",
+        "submittedBy": "64111E2A65DC60CB0A495F9F@c0b827b66271908b495fe8.e"
+      },
+      "pages": [
+        {
+          "task": {
+            "name": "tiktok-video",
+            "size": {
+              "name": "1080x1920px"
+            }
+          },
+          "extractedColors": [
+            {
+              "name": "white",
+              "coverage": 0.1499,
+              "mode": "RGB",
+              "value": {
+                "r": 249,
+                "g": 248,
+                "b": 250
+              }
+            },
+            {
+              "name": "off white",
+              "coverage": 0.0077,
+              "mode": "RGB",
+              "value": {
+                "r": 229,
+                "g": 225,
+                "b": 240
+              }
+            },
+            {
+              "name": "violet",
+              "coverage": 0.0085,
+              "mode": "RGB",
+              "value": {
+                "r": 187,
+                "g": 153,
+                "b": 240
+              }
+            },
+            {
+              "name": "lavender",
+              "coverage": 0.8339,
+              "mode": "RGB",
+              "value": {
+                "r": 203,
+                "g": 187,
+                "b": 232
+              }
+            }
+          ],
+          "rendition": {
+            "image": {
+              "thumbnail": {
+                "componentId": "c06e32e3-e93e-4571-9480-d6b98fa04d9b",
+                "hzRevision": "23dfb388-6085-48b2-8b82-a3dd4ed87088",
+                "width": 281,
+                "height": 500,
+                "mediaType": "image/webp"
+              },
+              "preview": {
+                "componentId": "d77a2a6c-fe92-4727-b355-0091465ee8bf",
+                "hzRevision": "7fbcc9b9-7b9e-4578-ac63-6e7204a6b58c",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "image/webp"
+              }
+            },
+            "video": {
+              "thumbnail": {
+                "componentId": "b9f4b19c-bacc-4eeb-9ae3-fba823d1ee76",
+                "hzRevision": "b0ee8cd7-cf47-4b4a-a095-6116c8bec963",
+                "width": 281,
+                "height": 500,
+                "mediaType": "video/mp4",
+                "duration": 5
+              },
+              "preview": {
+                "componentId": "3c529112-c5d7-4468-a050-24e4ad995b01",
+                "hzRevision": "b44b78bd-3289-4526-aba6-5395345960cf",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "video/mp4",
+                "duration": 5
+              }
+            }
+          }
+        }
+      ],
+      "customLinks": {
+        "branchUrl": "https://adobesparkpost.app.link/3cFNtdJ56Lb"
+      },
+      "stats": {
+        "remixCount": 2
+      },
+      "styles": ["fresh", "bold"],
+      "segments": ["all"],
+      "moods": ["powerful"],
+      "_links": {
+        "http://ns.adobe.com/adobecloud/rel/rendition": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:cf87a031-a866-529d-a458-48e95b847467/rendition?assetType=TEMPLATE&etag=3935f2a3a9304c54a5931ef366b40f0a{&page,size,type,fragment}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/primary": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:cf87a031-a866-529d-a458-48e95b847467/primary?assetType=TEMPLATE&etag=3935f2a3a9304c54a5931ef366b40f0a",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/manifest": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:cf87a031-a866-529d-a458-48e95b847467/manifest?assetType=TEMPLATE&etag=3935f2a3a9304c54a5931ef366b40f0a",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/component": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:cf87a031-a866-529d-a458-48e95b847467/component?assetType=TEMPLATE&etag=3935f2a3a9304c54a5931ef366b40f0a{&revision,component_id}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        }
+      }
+    },
+    {
+      "id": "urn:aaid:sc:VA6C2:ef31fd98-5065-5cf5-8145-8517acd712e5",
+      "parentDirectoryId": "urn:aaid:sc:VA6C2:646eca58-139c-4c75-908e-f39f13285163",
+      "ancestorAssetIds": [
+        "urn:aaid:directory:b5accaca-1f2d-4311-aa12-e9c537a8fad8",
+        "urn:aaid:directory:61acb9e9-a107-48e0-9e73-80c8031ede18",
+        "urn:aaid:sc:VA6C2:74c05c10-0945-5dd6-9c3d-22851a3d1903",
+        "urn:aaid:sc:VA6C2:b2b850c0-cab8-48be-89db-78909574db16",
+        "urn:aaid:sc:VA6C2:0fabaa0d-a1f7-4cbd-b603-89c6dc35a48a",
+        "urn:aaid:sc:VA6C2:74c60171-633c-4451-867e-d49e5f4e5884",
+        "urn:aaid:sc:VA6C2:1bb25287-eae8-476e-8dab-5c191e525e61",
+        "urn:aaid:sc:VA6C2:646eca58-139c-4c75-908e-f39f13285163"
+      ],
+      "path": "/content/assets/content/approved/ccx/template/media_monks_au/64f2bb81-e333-52dd-9b62-a129238a45df",
+      "contentType": "application/vnd.adobe.hz.express+dcx",
+      "createDate": "2024-06-07T14:59:51.266Z",
+      "modifyDate": "2024-08-20T09:48:43.143Z",
+      "name": "64f2bb81-e333-52dd-9b62-a129238a45df",
+      "status": "approved",
+      "dc:title": {
+        "i-default": "Blue Black Fitness TikTok video"
+      },
+      "etags": "\"711c72b7c3384b4a9765b806dcf8da8c\"",
+      "assetType": "Template",
+      "behaviors": ["animated"],
+      "topics": [
+        "daily",
+        "exercise",
+        "fitness",
+        "journey",
+        "motivation",
+        "routine",
+        "tips",
+        "workout",
+        "workouts"
+      ],
+      "availabilityDate": "2024-08-21T02:21:08.503Z",
+      "licensingCategory": "free",
+      "language": "en-US",
+      "applicableRegions": ["AU"],
+      "attribution": {
+        "creators": [
+          {
+            "name": "Abhishek Thakur"
+          }
+        ],
+        "vendor": "Adobe Express",
+        "submittedBy": "22C41E396543F0F00A495C41@c0b827b66271908b495fe8.e"
+      },
+      "pages": [
+        {
+          "features": ["audio"],
+          "task": {
+            "name": "tiktok-video",
+            "size": {
+              "name": "1080x1920px"
+            }
+          },
+          "extractedColors": [
+            {
+              "name": "dark blue",
+              "coverage": 0.1731,
+              "mode": "RGB",
+              "value": {
+                "r": 0,
+                "g": 1,
+                "b": 36
+              }
+            },
+            {
+              "name": "white",
+              "coverage": 0.0562,
+              "mode": "RGB",
+              "value": {
+                "r": 250,
+                "g": 250,
+                "b": 250
+              }
+            },
+            {
+              "name": "black",
+              "coverage": 0.1353,
+              "mode": "RGB",
+              "value": {
+                "r": 28,
+                "g": 29,
+                "b": 32
+              }
+            },
+            {
+              "name": "dark gray",
+              "coverage": 0.0312,
+              "mode": "RGB",
+              "value": {
+                "r": 57,
+                "g": 58,
+                "b": 62
+              }
+            },
+            {
+              "name": "cyan",
+              "coverage": 0.6042,
+              "mode": "RGB",
+              "value": {
+                "r": 11,
+                "g": 180,
+                "b": 188
+              }
+            }
+          ],
+          "rendition": {
+            "image": {
+              "thumbnail": {
+                "componentId": "d38762b8-8974-4d96-9d2f-81d7cf27ee30",
+                "hzRevision": "1681d659-4b1e-43d8-aed0-e5047662f52a",
+                "width": 281,
+                "height": 500,
+                "mediaType": "image/webp"
+              },
+              "preview": {
+                "componentId": "c184c632-278d-4e4f-b8ad-61ef0c62c6e3",
+                "hzRevision": "288c087c-b699-48eb-9453-0b99aad5d1ac",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "image/webp"
+              }
+            },
+            "video": {
+              "thumbnail": {
+                "componentId": "35cb91e5-45bd-48c1-b94a-0b148495ef4d",
+                "hzRevision": "ac4ff014-761f-42ea-81f3-9540d1bf818a",
+                "width": 281,
+                "height": 500,
+                "mediaType": "video/mp4",
+                "duration": 13
+              },
+              "preview": {
+                "componentId": "cfb85e12-c806-4c54-a059-9dd7e9e231ad",
+                "hzRevision": "43e9cae5-1118-40cc-ad04-9770b9a20551",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "video/mp4",
+                "duration": 13
+              }
+            }
+          }
+        }
+      ],
+      "customLinks": {
+        "branchUrl": "https://adobesparkpost.app.link/EpmwBrpneMb"
+      },
+      "styles": ["simple", "bold"],
+      "segments": ["all"],
+      "moods": ["powerful"],
+      "_links": {
+        "http://ns.adobe.com/adobecloud/rel/rendition": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:ef31fd98-5065-5cf5-8145-8517acd712e5/rendition?assetType=TEMPLATE&etag=711c72b7c3384b4a9765b806dcf8da8c{&page,size,type,fragment}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/primary": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:ef31fd98-5065-5cf5-8145-8517acd712e5/primary?assetType=TEMPLATE&etag=711c72b7c3384b4a9765b806dcf8da8c",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/manifest": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:ef31fd98-5065-5cf5-8145-8517acd712e5/manifest?assetType=TEMPLATE&etag=711c72b7c3384b4a9765b806dcf8da8c",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/component": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:ef31fd98-5065-5cf5-8145-8517acd712e5/component?assetType=TEMPLATE&etag=711c72b7c3384b4a9765b806dcf8da8c{&revision,component_id}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        }
+      }
+    },
+    {
+      "id": "urn:aaid:sc:VA6C2:68dae656-d0fe-5f7e-a3f9-fac4d4d92030",
+      "parentDirectoryId": "urn:aaid:sc:VA6C2:9964093a-b8a9-47fa-a02d-3116f8d8cd88",
+      "ancestorAssetIds": [
+        "urn:aaid:directory:b5accaca-1f2d-4311-aa12-e9c537a8fad8",
+        "urn:aaid:directory:61acb9e9-a107-48e0-9e73-80c8031ede18",
+        "urn:aaid:sc:VA6C2:74c05c10-0945-5dd6-9c3d-22851a3d1903",
+        "urn:aaid:sc:VA6C2:b2b850c0-cab8-48be-89db-78909574db16",
+        "urn:aaid:sc:VA6C2:0fabaa0d-a1f7-4cbd-b603-89c6dc35a48a",
+        "urn:aaid:sc:VA6C2:74c60171-633c-4451-867e-d49e5f4e5884",
+        "urn:aaid:sc:VA6C2:1bb25287-eae8-476e-8dab-5c191e525e61",
+        "urn:aaid:sc:VA6C2:9964093a-b8a9-47fa-a02d-3116f8d8cd88"
+      ],
+      "path": "/content/assets/content/approved/ccx/template/stock_community/8d1f9374-c45c-529b-aa56-5672d1b65f6b",
+      "contentType": "application/vnd.adobe.hz.express+dcx",
+      "createDate": "2024-08-15T09:50:01.669Z",
+      "modifyDate": "2024-08-15T09:50:01.860Z",
+      "name": "8d1f9374-c45c-529b-aa56-5672d1b65f6b",
+      "status": "approved",
+      "dc:title": {
+        "i-default": "Green After-School Activities TikTok Video"
+      },
+      "etags": "\"c93658f8d070496196c6cf5c763b77cc\"",
+      "assetType": "Template",
+      "behaviors": ["animated"],
+      "topics": [
+        "kids",
+        "children",
+        "child",
+        "mum",
+        "dad",
+        "parents",
+        "prepare",
+        "ideas",
+        "inspirations"
+      ],
+      "availabilityDate": "2024-08-16T17:00:33.277Z",
+      "licensingCategory": "free",
+      "language": "en-US",
+      "applicableRegions": ["GB"],
+      "attribution": {
+        "vendor": "Adobe Stock Community",
+        "submittedBy": "64111E2A65DC60CB0A495F9F@c0b827b66271908b495fe8.e"
+      },
+      "pages": [
+        {
+          "task": {
+            "name": "tiktok-video",
+            "size": {
+              "name": "1080x1920px"
+            }
+          },
+          "extractedColors": [
+            {
+              "name": "light blue",
+              "coverage": 0.0427,
+              "mode": "RGB",
+              "value": {
+                "r": 149,
+                "g": 177,
+                "b": 201
+              }
+            },
+            {
+              "name": "cyan",
+              "coverage": 0.062,
+              "mode": "RGB",
+              "value": {
+                "r": 171,
+                "g": 213,
+                "b": 209
+              }
+            },
+            {
+              "name": "violet",
+              "coverage": 0.0225,
+              "mode": "RGB",
+              "value": {
+                "r": 94,
+                "g": 75,
+                "b": 185
+              }
+            },
+            {
+              "name": "light green",
+              "coverage": 0.8553,
+              "mode": "RGB",
+              "value": {
+                "r": 188,
+                "g": 240,
+                "b": 212
+              }
+            },
+            {
+              "name": "lavender",
+              "coverage": 0.0176,
+              "mode": "RGB",
+              "value": {
+                "r": 135,
+                "g": 148,
+                "b": 197
+              }
+            }
+          ],
+          "rendition": {
+            "image": {
+              "thumbnail": {
+                "componentId": "f1d3ca66-f8db-4b68-921a-e1fff10553e4",
+                "hzRevision": "36794206-af02-4cf9-968d-e4faf8d4535b",
+                "width": 281,
+                "height": 500,
+                "mediaType": "image/webp"
+              },
+              "preview": {
+                "componentId": "f6f23ee2-8899-4c7a-a250-5d489f17d735",
+                "hzRevision": "31ca7484-55f3-4dfc-bae0-5a51309ce344",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "image/webp"
+              }
+            },
+            "video": {
+              "thumbnail": {
+                "componentId": "c0350139-4fe5-49ee-aa1b-e34c2c75bc14",
+                "hzRevision": "e59bc6fc-2712-4130-a0df-74e4f245f9f8",
+                "width": 281,
+                "height": 500,
+                "mediaType": "video/mp4",
+                "duration": 8
+              },
+              "preview": {
+                "componentId": "dbf3bc0a-654c-4a72-bf71-f5ed667eedb8",
+                "hzRevision": "8fc7713d-650e-416e-ba90-bcc34ae5ded3",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "video/mp4",
+                "duration": 8
+              }
+            }
+          }
+        }
+      ],
+      "customLinks": {
+        "branchUrl": "https://adobesparkpost.app.link/lFIONxJ56Lb"
+      },
+      "stats": {
+        "remixCount": 3
+      },
+      "styles": ["contemporary"],
+      "segments": ["all"],
+      "moods": ["dreamy"],
+      "_links": {
+        "http://ns.adobe.com/adobecloud/rel/rendition": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:68dae656-d0fe-5f7e-a3f9-fac4d4d92030/rendition?assetType=TEMPLATE&etag=c93658f8d070496196c6cf5c763b77cc{&page,size,type,fragment}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/primary": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:68dae656-d0fe-5f7e-a3f9-fac4d4d92030/primary?assetType=TEMPLATE&etag=c93658f8d070496196c6cf5c763b77cc",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/manifest": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:68dae656-d0fe-5f7e-a3f9-fac4d4d92030/manifest?assetType=TEMPLATE&etag=c93658f8d070496196c6cf5c763b77cc",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/component": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:68dae656-d0fe-5f7e-a3f9-fac4d4d92030/component?assetType=TEMPLATE&etag=c93658f8d070496196c6cf5c763b77cc{&revision,component_id}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        }
+      }
+    },
+    {
+      "id": "urn:aaid:sc:VA6C2:1ec1a70f-8671-5ee7-9dbc-5ec9ecf59b65",
+      "parentDirectoryId": "urn:aaid:sc:VA6C2:9964093a-b8a9-47fa-a02d-3116f8d8cd88",
+      "ancestorAssetIds": [
+        "urn:aaid:directory:b5accaca-1f2d-4311-aa12-e9c537a8fad8",
+        "urn:aaid:directory:61acb9e9-a107-48e0-9e73-80c8031ede18",
+        "urn:aaid:sc:VA6C2:74c05c10-0945-5dd6-9c3d-22851a3d1903",
+        "urn:aaid:sc:VA6C2:b2b850c0-cab8-48be-89db-78909574db16",
+        "urn:aaid:sc:VA6C2:0fabaa0d-a1f7-4cbd-b603-89c6dc35a48a",
+        "urn:aaid:sc:VA6C2:74c60171-633c-4451-867e-d49e5f4e5884",
+        "urn:aaid:sc:VA6C2:1bb25287-eae8-476e-8dab-5c191e525e61",
+        "urn:aaid:sc:VA6C2:9964093a-b8a9-47fa-a02d-3116f8d8cd88"
+      ],
+      "path": "/content/assets/content/approved/ccx/template/stock_community/1cf11e5c-39dc-472e-8893-f59bf430cba7",
+      "contentType": "application/vnd.adobe.hz.express+dcx",
+      "createDate": "2024-08-15T13:55:54.680Z",
+      "modifyDate": "2024-08-15T13:55:54.906Z",
+      "name": "1cf11e5c-39dc-472e-8893-f59bf430cba7",
+      "status": "approved",
+      "dc:title": {
+        "i-default": "Purple Back To School Makeup TikTok Video"
+      },
+      "etags": "\"7f7413a1226849f890dc780c95030608\"",
+      "assetType": "Template",
+      "behaviors": ["animated"],
+      "topics": ["school", "back", "return", "makeup", "get ready", "uni", "first day", "beauty"],
+      "availabilityDate": "2024-08-16T17:00:34.809Z",
+      "licensingCategory": "free",
+      "language": "en-US",
+      "applicableRegions": ["GB"],
+      "attribution": {
+        "vendor": "Adobe Stock Community",
+        "submittedBy": "604E1E2865DC60CA0A495EF6@c0b827b66271908b495fe8.e"
+      },
+      "pages": [
+        {
+          "task": {
+            "name": "tiktok-video",
+            "size": {
+              "name": "1080x1920px"
+            }
+          },
+          "extractedColors": [
+            {
+              "name": "dark pink",
+              "coverage": 0.0538,
+              "mode": "RGB",
+              "value": {
+                "r": 157,
+                "g": 90,
+                "b": 118
+              }
+            },
+            {
+              "name": "plum",
+              "coverage": 0.8571,
+              "mode": "RGB",
+              "value": {
+                "r": 99,
+                "g": 4,
+                "b": 44
+              }
+            },
+            {
+              "name": "magenta",
+              "coverage": 0.0256,
+              "mode": "RGB",
+              "value": {
+                "r": 177,
+                "g": 113,
+                "b": 143
+              }
+            },
+            {
+              "name": "dark brown",
+              "coverage": 0.034,
+              "mode": "RGB",
+              "value": {
+                "r": 94,
+                "g": 10,
+                "b": 38
+              }
+            },
+            {
+              "name": "off white",
+              "coverage": 0.0296,
+              "mode": "RGB",
+              "value": {
+                "r": 227,
+                "g": 222,
+                "b": 224
+              }
+            }
+          ],
+          "rendition": {
+            "image": {
+              "thumbnail": {
+                "componentId": "e5ae98fe-c9af-4829-b193-eba8f20abfdb",
+                "hzRevision": "c34dd335-e342-41df-aeef-11b423a7b92b",
+                "width": 281,
+                "height": 500,
+                "mediaType": "image/webp"
+              },
+              "preview": {
+                "componentId": "3aa463cf-4a9c-4a2b-a148-fa4add821082",
+                "hzRevision": "3f063852-376f-4782-ab94-1659eda42418",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "image/webp"
+              }
+            },
+            "video": {
+              "thumbnail": {
+                "componentId": "00bb63fa-a84d-4e77-b10c-3d79acbf3ed0",
+                "hzRevision": "44f75e3e-8896-42c0-9906-935e2c0ddf0a",
+                "width": 281,
+                "height": 500,
+                "mediaType": "video/mp4",
+                "duration": 5
+              },
+              "preview": {
+                "componentId": "267bfc41-4bee-4add-8de8-8b85c1aced7b",
+                "hzRevision": "9a870305-f949-4f98-9cae-48a7745dd725",
+                "width": 675,
+                "height": 1200,
+                "mediaType": "video/mp4",
+                "duration": 5
+              }
+            }
+          }
+        }
+      ],
+      "customLinks": {
+        "branchUrl": "https://adobesparkpost.app.link/mfX5PEJ56Lb"
+      },
+      "stats": {
+        "remixCount": 1
+      },
+      "styles": ["bold", "modern", "natural"],
+      "segments": ["all"],
+      "moods": ["neutral"],
+      "_links": {
+        "http://ns.adobe.com/adobecloud/rel/rendition": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:1ec1a70f-8671-5ee7-9dbc-5ec9ecf59b65/rendition?assetType=TEMPLATE&etag=7f7413a1226849f890dc780c95030608{&page,size,type,fragment}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/primary": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:1ec1a70f-8671-5ee7-9dbc-5ec9ecf59b65/primary?assetType=TEMPLATE&etag=7f7413a1226849f890dc780c95030608",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/manifest": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:1ec1a70f-8671-5ee7-9dbc-5ec9ecf59b65/manifest?assetType=TEMPLATE&etag=7f7413a1226849f890dc780c95030608",
+          "templated": false,
+          "mode": "id",
+          "name": "ACP"
+        },
+        "http://ns.adobe.com/adobecloud/rel/component": {
+          "href": "https://design-assets.adobeprojectm.com/content/download/express/public/urn:aaid:sc:VA6C2:1ec1a70f-8671-5ee7-9dbc-5ec9ecf59b65/component?assetType=TEMPLATE&etag=7f7413a1226849f890dc780c95030608{&revision,component_id}",
+          "templated": true,
+          "mode": "id",
+          "name": "ACP"
+        }
+      }
+    }
+  ],
+  "_links": {
+    "next": {
+      "href": "https://express-search.hz.adobe.com/v3/content?collectionId=urn:aaid:sc:VA6C2:25a82757-01de-4dd9-b0ee-bde51dd3b418&queryType=search&q=Tiktok videos&limit=10&start=10&availabilityEnd=2024-08-22&filters=licensingCategory==free",
+      "templated": false,
+      "name": "ACP"
+    }
+  },
+  "status": {}
+}
